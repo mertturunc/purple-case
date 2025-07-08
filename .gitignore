@@ -1,0 +1,6 @@
+# notebooks
+/notebooks/cache/
+/notebooks/ORDERS_SERVICE_AREA/
+
+# python environment
+.venv/
