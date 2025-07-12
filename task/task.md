@@ -3,7 +3,7 @@
 ## Amaç
 
 Bu çalışma kapsamında, verilen örnek sipariş ve depo verileri analiz edilerek, depo bazlı optimum servis alanlarının belirlenmesi ve aşağıda tanımlanan operasyonel ve finansal KPI'ların hesaplanması hedeflenmektedir.
-Ayrıca, açık kaynaklardan temin edilecek coğrafi ve demografik veriler kullanılarak; ilçe, mahalle ve gerekli görülen ölçeklerde müşteri siparişlerine ait metriklerin analiz edilmesi ve haritalandırılması beklenmektedir.
+Ayrıca, **açık kaynaklardan temin edilecek** coğrafi ve demografik veriler kullanılarak; ilçe, mahalle ve gerekli görülen ölçeklerde müşteri siparişlerine ait metriklerin analiz edilmesi ve haritalandırılması beklenmektedir.
 
 ## Analiz Aşamaları
 
@@ -16,9 +16,9 @@ Ayrıca, açık kaynaklardan temin edilecek coğrafi ve demografik veriler kulla
 #### 1.2 Optimum Servis Alanlarının Tasarlanması
 - Sipariş yoğunlukları, teslimat süreleri ve diğer operasyonel veriler kullanılarak **depo bazlı optimum servis alanları** oluşturulmalıdır.
 - Sadece sipariş verisi değil, aynı zamanda aşağıdaki faktörler de göz önünde bulundurulmalıdır:
-  - Araç tipi ve özellikleri
+  - Araç tipi ve özellikleri <!--- motosiklet -->
   - Yol ağı ve teorik süreler
-  - Eğim, mesafe ve hız analizleri
+  - Eğim, mesafe ve hız analizleri <!--- srtm belki -->
   - Demografik yapı (nüfus, gelir düzeyi vb.)
 
 #### 1.3 Servis Alanları KPI Analizi
