@@ -4,3 +4,9 @@
 
 # python environment
 .venv/
+
+# raw raster (avoiding big files)
+raster/
+
+# presentation (for now)
+presentation/
