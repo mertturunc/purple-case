@@ -8,7 +8,7 @@ from shapely.geometry import box
 import glob
 import os
 
-os.environ['PROJ_LIB'] = r"D:\getir-case\.venv\Lib\site-packages\rasterio\proj_data"
+os.environ['PROJ_LIB'] = r".\.venv\Lib\site-packages\rasterio\proj_data"
 
 
 bbox = box(28.753995, 40.108817, 29.319104, 40.336879)  # WGS84 bbox
