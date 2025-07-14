@@ -3,6 +3,8 @@
 
 Bu proje, verilen örnek sipariş ve depo verileri üzerinden depo bazlı optimum servis alanlarının belirlenmesi, operasyonel ve finansal KPI'ların hesaplanması ve coğrafi-demografik analizlerin yapılmasını amaçlamaktadır.
 
+> :white_flag: **Not**: CBS programları aracılığıyla çıktı haritasının üretimi ve demografik SQL analizleri ne yazıkki yetişemedi
+>  
 ## İçerik
 
 - [Dokümantasyon](#dokümantasyon)
